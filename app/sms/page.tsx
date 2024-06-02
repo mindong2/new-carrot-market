@@ -17,7 +17,7 @@ export default function SMSLogin() {
           errors={[]}
         />
         <FormInput
-          type="number"
+          type="number" 
           placeholder="Verification code"
           required
           errors={[]}
